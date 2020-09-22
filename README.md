@@ -4,11 +4,13 @@
 1.**这是文字粗体格式**
 [论文](http://gitcafe.com)
 [代码](http://gitcafe.com)  
-2.
+2.**这是文字粗体格式**
+[论文](http://gitcafe.com)
+[代码](http://gitcafe.com)  
 *** 
 ### 二、实体对齐
-[论文](http://gitcafe.com)
-[代码](http://gitcafe.com)
+[论文原文](http://gitcafe.com)
+[代码链接](http://gitcafe.com)
 *** 
 ### 三、推荐系统
 [论文](http://gitcafe.com)
