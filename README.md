@@ -3,7 +3,7 @@
 ### 一、知识图谱补全
 1.**这是文字粗体格式**
 [论文](http://gitcafe.com)
-[代码](http://gitcafe.com)
+[代码](http://gitcafe.com)  
 2.
 *** 
 ### 二、实体对齐
