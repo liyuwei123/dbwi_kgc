@@ -34,7 +34,7 @@
 [代码链接](https://www.paperswithcode.com/paper/translating-embeddings-for-modeling-multi)  
 2.电子科技大学统计机器智能与学习实验室 电子科技大学学报  2016  
 **《知识图谱技术综述》**
-[论文原文](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=cjfd2016&filename=dkdx201604012&dbcode=cjfq)
+[论文原文](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=cjfd2016&filename=dkdx201604012&dbcode=cjfq)  
 3.IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING, VOL. 29, NO. 12, DECEMBER 2017
 **《Knowledge Graph Embedding: A Survey of Approaches and Applications》**
 [论文原文](https://ieeexplore.ieee.org/document/8047276)
