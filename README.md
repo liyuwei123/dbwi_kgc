@@ -23,8 +23,8 @@
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
 **《Deep Knowledge-Aware Network for News Recommendation》**
-[论文原文](https://www.paperswithcode.com/paper/jointly-learning-entity-and-relation)
-[代码链接](https://www.paperswithcode.com/paper/jointly-learning-entity-and-relation) 
+[论文原文](https://arxiv.org/pdf/1801.08284v2.pdf)
+[代码链接](https://www.paperswithcode.com/paper/dkn-deep-knowledge-aware-network-for-news) 
 2.Shanghai Jiao Tong University, Shanghai, China 2018
 **《RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems》**
 [论文原文](https://arxiv.org/pdf/1803.03467v4.pdf)
