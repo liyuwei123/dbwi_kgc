@@ -6,7 +6,7 @@
 1.Wangxuan Institute of Computer Technology, Peking University, China IJCNLP 2019
 **《Jointly Learning Entity and Relation Representations for Entity Alignment》**
 [论文原文](https://www.paperswithcode.com/paper/jointly-learning-entity-and-relation)
-[代码链接](https://www.paperswithcode.com/paper/jointly-learning-entity-and-relation)  
+[代码链接](https://www.paperswithcode.com/paper/jointly-learning-entity-and-relation)    
 2.Wangxuan Institute of Computer Technology, Peking University, China ACL 2020
 **《Neighborhood Matching Network for Entity Alignment》**
 [论文原文](https://arxiv.org/pdf/2005.05607v1.pdf)
