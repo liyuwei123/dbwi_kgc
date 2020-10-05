@@ -11,6 +11,11 @@
 **《Neighborhood Matching Network for Entity Alignment》**
 [论文原文](https://arxiv.org/pdf/2005.05607v1.pdf)
 [代码链接](https://www.paperswithcode.com/paper/neighborhood-matching-network-for-entity)  
+3.Zhichun Wang;Qingsong Lv;Xiaohan Lan, 2018 Conference on Empirical Methods in Natural Language Processing
+**《Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks》**
+[论文原文](https://www.aclweb.org/anthology/D18-1032/)
+[代码链接](https://github.com/1049451037/GCN-Align)  
+
 
 *** 
 ### 三、推荐系统
