@@ -30,6 +30,14 @@
 3.KDD 2018
 **《NPA Nerual News Recommendation with Personalized Attention》**
 [论文原文](https://www.aclweb.org/anthology/D18-1032/)
+[代码链接](https://github.com/microsoft/recommenders)    
+4.IJCAI 2019
+**《Neural News Recommendation with Attentive Multi-View Learning》**
+[论文原文](https://www.researchgate.net/publication/334844180_Entity_Alignment_for_Cross-lingual_Knowledge_Graph_with_Graph_Convolutional_Networks)
+[代码链接](https://github.com/microsoft/recommenders)   
+5.ACL 2019
+**《Neural News Recommendation with Long- and Short-term User Representations》**
+[论文原文](https://www.aclweb.org/anthology/D18-1032/)
 [代码链接](https://github.com/microsoft/recommenders) 
 *** 
 ### 四、图神经网络
