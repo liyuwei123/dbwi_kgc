@@ -26,7 +26,7 @@
 2.Shanghai Jiao Tong University, Shanghai, China 2018
 **《RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems》**
 [论文原文](https://arxiv.org/pdf/1803.03467v4.pdf)
-[代码链接](https://www.paperswithcode.com/paper/ripplenet-propagating-user-preferences-on-the) 
+[代码链接](https://www.paperswithcode.com/paper/ripplenet-propagating-user-preferences-on-the)   
 3.KDD 2018
 **《NPA Nerual News Recommendation with Personalized Attention》**
 [论文原文](https://www.aclweb.org/anthology/D18-1032/)
