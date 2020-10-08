@@ -27,7 +27,10 @@
 **《Jointly Learning Entity and Relation Representations for Entity Alignment》**
 [论文原文](https://paperswithcode.com/paper/jointly-learning-entity-and-relation)
 [代码链接](https://github.com/StephanieWyt/HGCN-JE-JR)  
-
+5.ISWC 2017
+**《Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks》**
+[论文原文](https://iswc2017.semanticweb.org/)
+[代码链接](https://github.com/nju-websoft/JAPE)  
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
