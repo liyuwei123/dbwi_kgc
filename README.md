@@ -65,7 +65,7 @@
 [论文原文](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=cjfd2016&filename=dkdx201604012&dbcode=cjfq)  
 3.IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING, VOL. 29, NO. 12, DECEMBER 2017
 **《Knowledge Graph Embedding: A Survey of Approaches and Applications》**
-[论文原文](https://ieeexplore.ieee.org/document/8047276)
+[论文原文](https://ieeexplore.ieee.org/document/8047276)  
 4.NAACL 2018
 **《KBGAN: Adversarial Learning for Knowledge Graph Embeddings》**
 [论文原文](https://arxiv.org/pdf/1711.04071v3.pdf)
