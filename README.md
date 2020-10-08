@@ -18,8 +18,11 @@
 3.Zhichun Wang;Qingsong Lv;Xiaohan Lan, 2018 Conference on Empirical Methods in Natural Language Processing
 **《Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks》**
 [论文原文](https://www.aclweb.org/anthology/D18-1032/)
-[代码链接](https://github.com/1049451037/GCN-Align)  
-
+[代码链接](https://github.com/1049451037/GCN-Align)    
+4.IJCNLP 2019
+**《Jointly Learning Entity and Relation Representations for Entity Alignment》**
+[论文原文](https://paperswithcode.com/paper/jointly-learning-entity-and-relation)
+[代码链接](https://github.com/StephanieWyt/HGCN-JE-JR)  
 
 *** 
 ### 三、推荐系统
