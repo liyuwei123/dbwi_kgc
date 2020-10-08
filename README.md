@@ -5,6 +5,10 @@
 **《A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization》**
 [论文原文](https://www.aclweb.org/anthology/N19-1226/)
 [代码链接](https://github.com/daiquocnguyen/CapsE)  
+2.www 2020
+**《Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning》**
+[论文原文](https://dl.acm.org/doi/pdf/10.1145/3366423.3380155)
+[代码链接](https://github.com/RUCAIBox/UPGAN)
 *** 
 ### 二、实体对齐
 1.Wangxuan Institute of Computer Technology, Peking University, China IJCNLP 2019
@@ -62,5 +66,8 @@
 3.IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING, VOL. 29, NO. 12, DECEMBER 2017
 **《Knowledge Graph Embedding: A Survey of Approaches and Applications》**
 [论文原文](https://ieeexplore.ieee.org/document/8047276)
-
+4.NAACL 2018
+**《KBGAN: Adversarial Learning for Knowledge Graph Embeddings》**
+[论文原文](https://arxiv.org/pdf/1711.04071v3.pdf)
+[代码链接](https://github.com/cai-lw/KBGAN)
  
