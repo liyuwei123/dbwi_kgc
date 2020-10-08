@@ -1,6 +1,10 @@
 # dbwi_kg
 ## 组内论文和代码信息清单维护仓库
 ### 一、知识图谱补全 
+1.NAACL 2019
+**《A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization》**
+[论文原文](https://www.aclweb.org/anthology/N19-1226/)
+[代码链接](https://github.com/daiquocnguyen/CapsE)  
 *** 
 ### 二、实体对齐
 1.Wangxuan Institute of Computer Technology, Peking University, China IJCNLP 2019
