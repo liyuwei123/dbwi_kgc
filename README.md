@@ -27,11 +27,7 @@
 **《Jointly Learning Entity and Relation Representations for Entity Alignment》**
 [论文原文](https://paperswithcode.com/paper/jointly-learning-entity-and-relation)
 [代码链接](https://github.com/StephanieWyt/HGCN-JE-JR)  
-5.ISWC 2017
-**《Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks》**
-[论文原文](https://iswc2017.semanticweb.org/)
-[代码链接](https://github.com/nju-websoft/JAPE)  
-6.IJCAI 2019
+5.IJCAI 2019
 **《Entity Alignment for Cross-lingual Knowledge Graph with Graph Convolutional Networks》**
 [论文原文](https://www.researchgate.net/publication/334844180_Entity_Alignment_for_Cross-lingual_Knowledge_Graph_with_Graph_Convolutional_Networks)
 *** 
