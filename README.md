@@ -30,6 +30,10 @@
 5.IJCAI 2019
 **《Entity Alignment for Cross-lingual Knowledge Graph with Graph Convolutional Networks》**
 [论文原文](https://www.researchgate.net/publication/334844180_Entity_Alignment_for_Cross-lingual_Knowledge_Graph_with_Graph_Convolutional_Networks)
+6.ISWC 2017
+**《Cross-lingual Entity Alignment via Joint Attribute-Preserving Embedding》**
+[论文原文](https://arxiv.org/pdf/1708.05045v2.pdf)
+[代码链接](https://www.paperswithcode.com/paper/cross-lingual-entity-alignment-via-joint)  
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
