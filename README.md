@@ -37,10 +37,13 @@
 7.IJCAI 2018
 **《Bootstrapping Entity Alignment with Knowledge Graph Embedding》**
 [论文原文](https://www.ijcai.org/Proceedings/2018/0611.pdf)
-[代码链接](https://github.com/nju-websoft/BootEA)   
+[代码链接](https://github.com/nju-websoft/BootEA)  
 8.计算机研究与发展 2016
 **《知识库实体对齐技术综述》**
 [论文原文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2016.20150661)  
+9.IJCAI 2016
+**《Aligning Users Across Social Networks Using Network Embedding》**
+[论文原文](https://www.aminer.cn/pub/57d063c3ac44367354290601/aligning-users-across-social-networks-using-network-embedding)  
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
