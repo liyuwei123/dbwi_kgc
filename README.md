@@ -29,7 +29,7 @@
 [代码链接](https://github.com/thunlp/IEAJKE)    
 5.IJCAI 2019
 **《Entity Alignment for Cross-lingual Knowledge Graph with Graph Convolutional Networks》**
-[论文原文](https://www.researchgate.net/publication/334844180_Entity_Alignment_for_Cross-lingual_Knowledge_Graph_with_Graph_Convolutional_Networks)
+[论文原文](https://www.researchgate.net/publication/334844180_Entity_Alignment_for_Cross-lingual_Knowledge_Graph_with_Graph_Convolutional_Networks)  
 6.ISWC 2017
 **《Cross-lingual Entity Alignment via Joint Attribute-Preserving Embedding》**
 [论文原文](https://arxiv.org/pdf/1708.05045v2.pdf)
@@ -37,7 +37,7 @@
 7.IJCAI 2018
 **《Bootstrapping Entity Alignment with Knowledge Graph Embedding》**
 [论文原文](https://www.ijcai.org/Proceedings/2018/0611.pdf)
-[代码链接](https://github.com/nju-websoft/BootEA) 
+[代码链接](https://github.com/nju-websoft/BootEA)   
 8.计算机研究与发展 2016
 **《知识库实体对齐技术综述》**
 [论文原文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2016.20150661)  
