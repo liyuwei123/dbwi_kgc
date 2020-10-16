@@ -23,10 +23,10 @@
 **《Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks》**
 [论文原文](https://www.aclweb.org/anthology/D18-1032/)
 [代码链接](https://github.com/1049451037/GCN-Align)    
-4.IJCNLP 2019
-**《Jointly Learning Entity and Relation Representations for Entity Alignment》**
-[论文原文](https://paperswithcode.com/paper/jointly-learning-entity-and-relation)
-[代码链接](https://github.com/StephanieWyt/HGCN-JE-JR)  
+4.IJCAI 2017
+**《Iterative Entity Alignment via Joint Knowledge Embeddings》**
+[论文原文](https://www.ijcai.org/Proceedings/2017/0595.pdf)
+[代码链接](https://github.com/thunlp/IEAJKE)    
 5.IJCAI 2019
 **《Entity Alignment for Cross-lingual Knowledge Graph with Graph Convolutional Networks》**
 [论文原文](https://www.researchgate.net/publication/334844180_Entity_Alignment_for_Cross-lingual_Knowledge_Graph_with_Graph_Convolutional_Networks)
@@ -34,6 +34,10 @@
 **《Cross-lingual Entity Alignment via Joint Attribute-Preserving Embedding》**
 [论文原文](https://arxiv.org/pdf/1708.05045v2.pdf)
 [代码链接](https://www.paperswithcode.com/paper/cross-lingual-entity-alignment-via-joint)  
+7.IJCAI 2018
+**《Bootstrapping Entity Alignment with Knowledge Graph Embedding》**
+[论文原文](https://www.ijcai.org/Proceedings/2018/0611.pdf)
+[代码链接](https://github.com/nju-websoft/BootEA)  
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
@@ -55,7 +59,9 @@
 5.ACL 2019
 **《Neural News Recommendation with Long- and Short-term User Representations》**
 [论文原文](https://www.aclweb.org/anthology/D18-1032/)
-[代码链接](https://github.com/microsoft/recommenders) 
+[代码链接](https://github.com/microsoft/recommenders)
+6.IEEE 2019
+**《Heterogeneous_Information_Network_Embedding_for_Recommendation》**  
 *** 
 ### 四、图神经网络
 [论文原文](http://gitcafe.com)
