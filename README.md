@@ -37,7 +37,10 @@
 7.IJCAI 2018
 **《Bootstrapping Entity Alignment with Knowledge Graph Embedding》**
 [论文原文](https://www.ijcai.org/Proceedings/2018/0611.pdf)
-[代码链接](https://github.com/nju-websoft/BootEA)  
+[代码链接](https://github.com/nju-websoft/BootEA) 
+8.计算机研究与发展 2016
+**《知识库实体对齐技术综述》**
+[论文原文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2016.20150661)  
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
@@ -59,7 +62,7 @@
 5.ACL 2019
 **《Neural News Recommendation with Long- and Short-term User Representations》**
 [论文原文](https://www.aclweb.org/anthology/D18-1032/)
-[代码链接](https://github.com/microsoft/recommenders)
+[代码链接](https://github.com/microsoft/recommenders)  
 6.IEEE 2019
 **《Heterogeneous_Information_Network_Embedding_for_Recommendation》**  
 *** 
