@@ -84,5 +84,9 @@
 4.NAACL 2018
 **《KBGAN: Adversarial Learning for Knowledge Graph Embeddings》**
 [论文原文](https://arxiv.org/pdf/1711.04071v3.pdf)
-[代码链接](https://github.com/cai-lw/KBGAN)
+[代码链接](https://github.com/cai-lw/KBGAN)  
+5.ACL 2019
+**《Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs》**
+[论文原文](https://www.aclweb.org/anthology/P19-1466/)
+[代码链接](https://www.aclweb.org/anthology/P19-1466/)  
  
