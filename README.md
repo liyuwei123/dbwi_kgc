@@ -45,7 +45,9 @@
 **《Aligning Users Across Social Networks Using Network Embedding》**
 [论文原文](https://www.aminer.cn/pub/57d063c3ac44367354290601/aligning-users-across-social-networks-using-network-embedding)  
 10.VLDB 2020
-**《A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs》**    
+**《A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs》**
+[论文原文](https://github.com/nju-websoft/OpenEA)
+[代码链接](https://github.com/nju-websoft/OpenEA)  
 11.EMNLP 2018
 **《One-Shot Relational Learning for Knowledge Graphs》**
 [论文原文](https://www.ijcai.org/Proceedings/2018/0611.pdf)
