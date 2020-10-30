@@ -68,6 +68,10 @@
 [代码链接](https://github.com/microsoft/recommenders)  
 6.IEEE 2019
 **《Heterogeneous_Information_Network_Embedding_for_Recommendation》**  
+7.IJCAI 2020
+**《HyperNews: Simultaneous News Recommendation and Active-Time Prediction via a Double-Task Deep Neural》**    
+8.IJCAI 2020
+**《User Modeling with Click Preference and Reading Satisfaction for News Recommendation》**    
 *** 
 ### 四、图神经网络
 [论文原文](http://gitcafe.com)
