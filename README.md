@@ -51,7 +51,11 @@
 11.EMNLP 2018
 **《One-Shot Relational Learning for Knowledge Graphs》**
 [论文原文](https://www.ijcai.org/Proceedings/2018/0611.pdf)
-[代码链接](https://arxiv.org/abs/1808.09040v1) 
+[代码链接](https://arxiv.org/abs/1808.09040v1)   
+12.ACL 2019
+**《Multi-Channel Graph Neural Network for Entity Alignment》**
+[论文原文](https://www.aclweb.org/anthology/P19-1140/)
+[代码链接](https://github.com/thunlp/MuGNN)   
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
