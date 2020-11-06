@@ -80,6 +80,11 @@
 **《HyperNews: Simultaneous News Recommendation and Active-Time Prediction via a Double-Task Deep Neural》**    
 8.IJCAI 2020
 **《User Modeling with Click Preference and Reading Satisfaction for News Recommendation》**    
+9.NLP 2017
+**《entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation》**
+[代码链接](https://github.com/D2KLab/entity2rec)   
+10.NLP 2019
+**《Neural News Recommendation with Long- and Short-term User Representations》**   
 *** 
 ### 四、图神经网络
 [论文原文](http://gitcafe.com)
