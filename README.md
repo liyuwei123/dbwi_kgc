@@ -8,7 +8,10 @@
 2.www 2020
 **《Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning》**
 [论文原文](https://dl.acm.org/doi/pdf/10.1145/3366423.3380155)
-[代码链接](https://github.com/RUCAIBox/UPGAN)
+[代码链接](https://github.com/RUCAIBox/UPGAN)  
+3.AAAI 2020
+**《Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion》**
+[论文原文](https://www.aaai.org/ojs/index.php/AAAI/article/view/6508)  
 *** 
 ### 二、实体对齐
 1.Wangxuan Institute of Computer Technology, Peking University, China IJCNLP 2019
