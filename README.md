@@ -56,6 +56,8 @@
 **《Multi-Channel Graph Neural Network for Entity Alignment》**
 [论文原文](https://www.aclweb.org/anthology/P19-1140/)
 [代码链接](https://github.com/thunlp/MuGNN)   
+13.IEEE 2019
+**《Guiding Cross-lingual Entity Alignment via Adversarial Knowledge Embedding》**     
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
