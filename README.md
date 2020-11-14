@@ -103,6 +103,15 @@
 [代码链接](https://github.com/D2KLab/entity2rec)   
 10.NLP 2019
 **《Neural News Recommendation with Long- and Short-term User Representations》**   
+11.AAAI 2019
+**《Session-Based Recommendation with Graph Neural Networks》**
+[代码链接](https://github.com/CRIPAC-DIG/SR-GNN)  
+12.KDD 2019
+**《Knowledge graph attention network for recommendation》**
+[代码链接](https://github.com/xiangwang1223/knowledge_graph_attention_network)    
+13.IJCAI 2019
+**《Graph Contextualized Self-Attention Network for Session-based Recommendation》**
+[代码链接](https://github.com/johnny12150/GC-SAN)  
 *** 
 ### 四、图神经网络
 [论文原文](http://gitcafe.com)
