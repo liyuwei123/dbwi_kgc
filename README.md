@@ -73,6 +73,10 @@
 **《Aligning Cross-Lingual Entities with Multi-Aspect Information》**
 [论文原文](https://arxiv.org/pdf/1707.01476.pdf)
 [代码链接](https://github.com/TimDettmers/ConvE)      
+17 AAAI 2019
+**《Rule-Guided Compositional Representation Learning on Knowledge Graphs》**
+[论文原文](https://ojs.aaai.org//index.php/AAAI/article/view/5687)
+[代码链接](https://github.com/ngl567/RPJE)       
 
 *** 
 ### 三、推荐系统
