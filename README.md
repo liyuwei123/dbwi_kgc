@@ -60,7 +60,16 @@
 [论文原文](https://www.aclweb.org/anthology/P19-1140/)
 [代码链接](https://github.com/thunlp/MuGNN)   
 13.IEEE 2019
-**《Guiding Cross-lingual Entity Alignment via Adversarial Knowledge Embedding》**     
+**《Guiding Cross-lingual Entity Alignment via Adversarial Knowledge Embedding》**   
+14.IJCNLP 2019
+**《Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model》**
+[论文原文](https://www.paperswithcode.com/paper/semi-supervised-entity-alignment-via-joint)
+[代码链接](https://www.paperswithcode.com/paper/semi-supervised-entity-alignment-via-joint)     
+15 IJCNLP 2019
+**《Aligning Cross-Lingual Entities with Multi-Aspect Information》**
+[论文原文](https://www.paperswithcode.com/paper/aligning-cross-lingual-entities-with-multi)
+[代码链接](https://www.paperswithcode.com/paper/aligning-cross-lingual-entities-with-multi)     
+
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
