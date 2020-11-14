@@ -69,6 +69,10 @@
 **《Aligning Cross-Lingual Entities with Multi-Aspect Information》**
 [论文原文](https://www.paperswithcode.com/paper/aligning-cross-lingual-entities-with-multi)
 [代码链接](https://www.paperswithcode.com/paper/aligning-cross-lingual-entities-with-multi)     
+16 
+**《Aligning Cross-Lingual Entities with Multi-Aspect Information》**
+[论文原文](https://arxiv.org/pdf/1707.01476.pdf)
+[代码链接](https://github.com/TimDettmers/ConvE)      
 
 *** 
 ### 三、推荐系统
