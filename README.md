@@ -76,7 +76,15 @@
 17 AAAI 2019
 **《Rule-Guided Compositional Representation Learning on Knowledge Graphs》**
 [论文原文](https://ojs.aaai.org//index.php/AAAI/article/view/5687)
-[代码链接](https://github.com/ngl567/RPJE)        
+[代码链接](https://github.com/ngl567/RPJE)   
+18 AAAI 2020
+**《Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction》**
+[论文原文](https://arxiv.org/pdf/1911.09419.pdf)
+[代码链接](https://github.com/MIRALab-USTC/KGE-HAKE)   
+19 ICLR 2019
+**《RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space》**
+[论文原文](https://openreview.net/forum?id=HkgEQnRqYQ)
+[代码链接](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)      
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
