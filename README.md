@@ -76,8 +76,7 @@
 17 AAAI 2019
 **《Rule-Guided Compositional Representation Learning on Knowledge Graphs》**
 [论文原文](https://ojs.aaai.org//index.php/AAAI/article/view/5687)
-[代码链接](https://github.com/ngl567/RPJE)       
-
+[代码链接](https://github.com/ngl567/RPJE)        
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
@@ -120,6 +119,10 @@
 13.IJCAI 2019
 **《Graph Contextualized Self-Attention Network for Session-based Recommendation》**
 [代码链接](https://github.com/johnny12150/GC-SAN)  
+14.www 2019
+**《Knowledge Graph Convolutional Networks for Recommender》**
+[代码链接](https://github.com/hwwang55/KGCN)    
+
 *** 
 ### 四、图神经网络
 [论文原文](http://gitcafe.com)
