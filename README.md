@@ -69,10 +69,10 @@
 **《Aligning Cross-Lingual Entities with Multi-Aspect Information》**
 [论文原文](https://www.paperswithcode.com/paper/aligning-cross-lingual-entities-with-multi)
 [代码链接](https://www.paperswithcode.com/paper/aligning-cross-lingual-entities-with-multi)     
-16 
-**《Aligning Cross-Lingual Entities with Multi-Aspect Information》**
-[论文原文](https://arxiv.org/pdf/1707.01476.pdf)
-[代码链接](https://github.com/TimDettmers/ConvE)      
+16 ACL 2019
+**《Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network》**
+[论文原文](https://arxiv.org/pdf/1905.11605.pdf)
+[代码链接](https://github.com/syxu828/Crosslingula-KG-Matching)        
 17 AAAI 2019
 **《Rule-Guided Compositional Representation Learning on Knowledge Graphs》**
 [论文原文](https://ojs.aaai.org//index.php/AAAI/article/view/5687)
