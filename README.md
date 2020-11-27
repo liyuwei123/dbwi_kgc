@@ -85,6 +85,9 @@
 **《RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space》**
 [论文原文](https://openreview.net/forum?id=HkgEQnRqYQ)
 [代码链接](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)      
+20 KNOWL-BASED SYST 2020
+**《GRL: Knowledge graph completion with GAN-based reinforcement learning》**
+[论文原文](https://doi.org/10.1016/j.knosys.2020.106421)      
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
