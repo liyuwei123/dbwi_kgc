@@ -178,4 +178,8 @@
 **《Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs》**
 [论文原文](https://www.aclweb.org/anthology/P19-1466/)
 [代码链接](https://www.aclweb.org/anthology/P19-1466/)  
+6.AAAI 2019
+**《Contextual Parameter Generation for Knowledge Graph Link Prediction》**
+[论文原文](https://arxiv.org/pdf/1907.03143.pdf)
+[代码链接](https://github.com/BorealisAI/DE-SimplE)  
  
