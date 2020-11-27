@@ -87,7 +87,11 @@
 [代码链接](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)      
 20 KNOWL-BASED SYST 2020
 **《GRL: Knowledge graph completion with GAN-based reinforcement learning》**
-[论文原文](https://doi.org/10.1016/j.knosys.2020.106421)      
+[论文原文](https://doi.org/10.1016/j.knosys.2020.106421)  
+21 WWW 2020
+**《Collective Multi-type Entity Alignment Between Knowledge Graphs》**
+[论文原文](https://dl.acm.org/doi/pdf/10.1145/3366423.3380289)  
+[代码链接](https://github.com/GentleZhu/CG-MuAlign)      
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
