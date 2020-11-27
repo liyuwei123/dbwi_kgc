@@ -91,7 +91,15 @@
 21 WWW 2020
 **《Collective Multi-type Entity Alignment Between Knowledge Graphs》**
 [论文原文](https://dl.acm.org/doi/pdf/10.1145/3366423.3380289)  
-[代码链接](https://github.com/GentleZhu/CG-MuAlign)      
+[代码链接](https://github.com/GentleZhu/CG-MuAlign)    
+22 WWW 2020
+**《Collective Multi-type Entity Alignment Between Knowledge Graphs》**
+[论文原文](https://dl.acm.org/doi/pdf/10.1145/3366423.3380289)  
+[代码链接](https://github.com/GentleZhu/CG-MuAlign)   
+23 ICDE 2020
+**《Collective Entity Alignment via Adaptive Features》**
+[论文原文](https://arxiv.org/pdf/1912.08404.pdf)  
+[代码链接](https://github.com/DexterZeng/CEA)     
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
