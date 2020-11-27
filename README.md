@@ -147,8 +147,8 @@
 [代码链接](https://github.com/hwwang55/KGCN)  
 15.AAAI 2020
 **《Hierarchical Attention for Knowledge Graph Completion》**
-[论文原文](https://www.aclweb.org/anthology/D18-1032/)
-[代码链接](https://github.com/microsoft/recommenders)
+[论文原文]()
+[代码链接]()
 
 *** 
 ### 四、图神经网络
