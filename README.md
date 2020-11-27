@@ -99,7 +99,7 @@
 23 ICDE 2020
 **《Collective Entity Alignment via Adaptive Features》**
 [论文原文](https://arxiv.org/pdf/1912.08404.pdf)
-[代码链接](https://github.com/DexterZeng/CEA) 
+[代码链接](https://github.com/DexterZeng/CEA)   
 24.WSDM 2020
 **《MRAEA：An Efficient and Robust Entity Alignment Approach for Cross-lingual Knowledge Graph》**
 [论文原文](https://doi.org/10.1145/3336191.3371804)
