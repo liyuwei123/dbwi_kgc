@@ -107,7 +107,11 @@
 24.WSDM 2020
 **《MRAEA：An Efficient and Robust Entity Alignment Approach for Cross-lingual Knowledge Graph》**
 [论文原文](https://doi.org/10.1145/3336191.3371804)
-[代码链接](https://github.com/MaoXinn/MRAEA)    
+[代码链接](https://github.com/MaoXinn/MRAEA)   
+25.ECIR 2020
+**《Knowledge Graph Entity Alignment with Graph Convolutional Networks: Lessons Learned》**
+[论文原文](https://www.paperswithcode.com/paper/knowledge-graph-entity-alignment-with-graph)
+[代码链接](https://www.paperswithcode.com/paper/knowledge-graph-entity-alignment-with-graph)      
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
