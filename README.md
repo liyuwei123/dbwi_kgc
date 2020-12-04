@@ -163,8 +163,8 @@
 [代码链接]()  
 16.SIGKDD 2019
 **《Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems》**
-[论文原文](https://arxiv.org/abs/1905.04413v2)
-[代码链接](GitHub - hwwang55/KGNN-LS: A tensorflow implementation of Knowledge-aware Graph Neural Networks with Label Smoothness regularization)    
+[论文原文](https://arxiv.org/abs/1905.04413v2)    
+[代码链接](GitHub - hwwang55/KGNN-LS: A tensorflow implementation of Knowledge-aware Graph Neural Networks with Label Smoothness regularization)      
 *** 
 ### 四、图神经网络
 [论文原文](http://gitcafe.com)
