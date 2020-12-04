@@ -12,6 +12,10 @@
 3.AAAI 2020
 **《Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion》**
 [论文原文](https://www.aaai.org/ojs/index.php/AAAI/article/view/6508)  
+4.EMNLP 2020
+**《Adaptive Attentional Network for Few-Shot Knowledge Graph Completion》**
+[论文原文](https://www.aclweb.org/anthology/2020.emnlp-main.131.pdf)
+[代码链接](https://github.com/JiaweiSheng/FAAN)    
 *** 
 ### 二、实体对齐
 1.Wangxuan Institute of Computer Technology, Peking University, China IJCNLP 2019
@@ -153,7 +157,10 @@
 **《Hierarchical Attention for Knowledge Graph Completion》**
 [论文原文]()
 [代码链接]()
-
+16.SIGKDD 2019
+**《Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems》**
+[论文原文](https://arxiv.org/abs/1905.04413v2)
+[代码链接](GitHub - hwwang55/KGNN-LS: A tensorflow implementation of Knowledge-aware Graph Neural Networks with Label Smoothness regularization)    
 *** 
 ### 四、图神经网络
 [论文原文](http://gitcafe.com)
@@ -182,4 +189,8 @@
 **《Contextual Parameter Generation for Knowledge Graph Link Prediction》**
 [论文原文](https://arxiv.org/pdf/1907.03143.pdf)
 [代码链接](https://github.com/BorealisAI/DE-SimplE)  
+7.AAAI 2018
+**《Convolutional 2D Knowledge Graph Embeddings》**
+[论文原文](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17366/15884)
+[代码链接](https://github.com/TimDettmers/ConvE)    
  
