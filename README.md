@@ -203,4 +203,8 @@
 **《Convolutional 2D Knowledge Graph Embeddings》**
 [论文原文](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17366/15884)
 [代码链接](https://github.com/TimDettmers/ConvE)    
+8.ICLR 2018
+**《Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning》**
+[论文原文](https://arxiv.org/abs/1711.05851)
+[代码链接](https://github.com/shehzaadzd/MINERVA)    
  
