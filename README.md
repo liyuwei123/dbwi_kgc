@@ -114,7 +114,10 @@
 25.ECIR 2020
 **《Knowledge Graph Entity Alignment with Graph Convolutional Networks: Lessons Learned》**
 [论文原文](https://www.paperswithcode.com/paper/knowledge-graph-entity-alignment-with-graph)
-[代码链接](https://www.paperswithcode.com/paper/knowledge-graph-entity-alignment-with-graph)      
+[代码链接](https://www.paperswithcode.com/paper/knowledge-graph-entity-alignment-with-graph)    
+26.AAAI 2020
+**《COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment》**
+[论文原文](https://ojs.aaai.org//index.php/AAAI/article/view/5696)  
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
