@@ -117,7 +117,11 @@
 [代码链接](https://www.paperswithcode.com/paper/knowledge-graph-entity-alignment-with-graph)    
 26.AAAI 2020
 **《COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment》**
-[论文原文](https://ojs.aaai.org//index.php/AAAI/article/view/5696)  
+[论文原文](https://ojs.aaai.org//index.php/AAAI/article/view/5696)
+27.IJCAI 2019
+**《Multi-view Knowledge Graph Embedding for Entity Alignment》**
+[论文原文](https://www.ijcai.org/Proceedings/2019/0754.pdf)
+[代码链接](https://github.com/nju-websoft/MultiKE)      
 *** 
 ### 三、推荐系统
 1.Shanghai Jiao Tong University, Shanghai, China 2018
