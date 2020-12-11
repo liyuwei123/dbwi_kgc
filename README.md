@@ -15,7 +15,10 @@
 4.EMNLP 2020
 **《Adaptive Attentional Network for Few-Shot Knowledge Graph Completion》**
 [论文原文](https://www.aclweb.org/anthology/2020.emnlp-main.131.pdf)
-[代码链接](https://github.com/JiaweiSheng/FAAN)    
+[代码链接](https://github.com/JiaweiSheng/FAAN)   
+5.WWW 2020
+**《Adaptive Attentional Network for Few-Shot Knowledge Graph Completion》**
+[论文原文](https://dl.acm.org/doi/pdf/10.1145/3366423.3380089)   
 *** 
 ### 二、实体对齐
 1.Wangxuan Institute of Computer Technology, Peking University, China IJCNLP 2019
@@ -164,7 +167,10 @@
 16.SIGKDD 2019
 **《Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems》**
 [论文原文](https://arxiv.org/abs/1905.04413v2)    
-[代码链接](https://www.paperswithcode.com/paper/knowledge-graph-convolutional-networks-for#code)        
+[代码链接](https://www.paperswithcode.com/paper/knowledge-graph-convolutional-networks-for#code)  
+17.KDD 2008
+**《Factorization Meets the Neighborhood:a Multifaceted Collaborative Filtering Model》**
+[论文原文](https://dl.acm.org/citation.cfm?id=1401944&preflayout=flat)    
 *** 
 ### 四、图神经网络
 [论文原文](http://gitcafe.com)
